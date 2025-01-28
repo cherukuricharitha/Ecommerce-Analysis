@@ -1,0 +1,11 @@
+
+Customer Clustering Report
+
+Number of clusters formed: 4
+Davies-Bouldin Index: 0.7623
+
+Cluster Sizes:
+  Cluster 0: 120 customers
+  Cluster 1: 95 customers
+  Cluster 2: 80 customers
+  Cluster 3: 105 customers
